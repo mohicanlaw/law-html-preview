@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2023-10-25",
-      "ci-build-number": "1.0.49",
+      "ci-build-number": "1.0.51",
       "ci-project": "mohicanlaw/law-xml",
       "codified-date": "2023-09-22",
       "platform": {
@@ -11,11 +11,11 @@
       },
       "repositories": [
         {
-          "commit": "32c2c920da55ef555e5fd7a4c28fa54f14f4ace0",
+          "commit": "5e1125be95a8b55ce7c2402d56287c429b4302a4",
           "name": "mohicanlaw/law-xml"
         },
         {
-          "commit": "0d1a9a9610b58d9db5278b064decf9de421e297a",
+          "commit": "31f1bdd78a20f3b5bbddafbaa8254cbc05d42338",
           "name": "mohicanlaw/law-xml-codified-preview"
         }
       ]
