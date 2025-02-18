@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "c2469eeadcf6863977b18d547512ae3329e6443d",
+          "commit": "bf9c3b52b12e6a8bdf5a9fa290c44265e564e337",
           "name": "mohicanlaw/law-xml"
         },
         {
-          "commit": "ea8cfcd017bf77a13c030d74dd3fee50bec3ec8e",
+          "commit": "e3e26170381719557c50b1c4cf6f20f6e1a2e165",
           "name": "mohicanlaw/law-xml-codified-preview"
         }
       ]
