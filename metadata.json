@@ -5,7 +5,7 @@
       "codified-date": "2025-01-07",
       "platform": {
         "reproducible": "false",
-        "version": "2.15.10"
+        "version": "2.16.0"
       },
       "repositories": [
         {
@@ -13,7 +13,7 @@
           "name": "mohicanlaw/law-xml"
         },
         {
-          "commit": "afd71ddaa9d438060cf2cdfcf7cf73539282622c",
+          "commit": "38c5432811f7b2e2e4ac6a4ce10c6e2de69a2b9b",
           "name": "mohicanlaw/law-xml-codified-preview"
         }
       ]
