@@ -1,22 +1,25 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-05-09",
+      "build-date": "2025-05-13",
       "codified-date": "2025-01-07",
       "platform": {
         "reproducible": "false",
-        "version": "2.15.20"
+        "version": "2.16.0"
       },
       "repositories": [
         {
-          "commit": "9d0ef433880726de918ccb8f932ec67be40188e4",
+          "commit": "da2f249c19355c3c36997fd507bd025015a066b1",
           "name": "mohicanlaw/law-xml"
         },
         {
-          "commit": "8a13b98cd9ea2d0bdfc3a4637ffb9a1103e7fa56",
+          "commit": "f93a1fb920e9329175843c77555b3f5045bfad14",
           "name": "mohicanlaw/law-xml-codified-preview"
         }
-      ]
+      ],
+      "search": {
+        "version": "v2"
+      }
     },
     "canonical-urls": {
       "html": "https://law.mohican.com",
