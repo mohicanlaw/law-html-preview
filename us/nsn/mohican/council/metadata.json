@@ -11,6 +11,10 @@
         {
           "commit": "9d0ef433880726de918ccb8f932ec67be40188e4",
           "name": "mohicanlaw/law-xml"
+        },
+        {
+          "commit": "7d312f532dd645cf12cf8850f07d76b5d0408773",
+          "name": "mohicanlaw/law-xml-codified-preview"
         }
       ],
       "search": {
